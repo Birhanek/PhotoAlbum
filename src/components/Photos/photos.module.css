@@ -1,0 +1,5 @@
+.photos{
+    display: grid;
+    grid-template-columns: 31% 31% 32%;
+    gap:2rem;
+}
